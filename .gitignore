@@ -2,3 +2,5 @@
 .env
 /gestos
 /basura
+*.pt
+
